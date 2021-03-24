@@ -16,7 +16,7 @@
 
 Niklaus Wirth è l'inventore dei linguaggi di programmazione Pascal, Modula-2, e Oberon. Per lo sviluppo di questi linguaggi, ha ricevuto il premio Turing.
 
-Ha studiato al Politecnico di Zurigo, a Quebec e a Berkeley.
+
 
 Dal 1963 al 1967 è stato professore associato alla Stanford University in California.
 
